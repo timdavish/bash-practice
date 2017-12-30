@@ -1,5 +1,5 @@
 # Bash Practice
 
-Compiled list of [HackerRank](https://www.hackerrank.com/dashboard) problems.
+Compiled list of [HackerRank bash problems](https://www.hackerrank.com/domains/shell/bash).
 
 Run scripts with `sh <script>`
